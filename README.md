@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinhanisha" alt="kinhanisha" /></a> </p>
 
-- 🔭 I’m currently working on [IGNOU Buddy Backend](https://github.com/KinhaNisha/IgnouBuddyBackend)
+- 🔭 I’m currently working on [Healthcare Management System](https://github.com/KinhaNisha/HCMS-Frontend)
 
 - 🌱 I’m currently learning **express jwt**
 
